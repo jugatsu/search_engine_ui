@@ -1,5 +1,8 @@
 # Search Engine UI
 
+[![Docker Build Status](https://img.shields.io/docker/build/jugatsu/search_engine_ui.svg)](https://github.com/jugatsu/search_engine_ui)
+[![Docker Automated build](https://img.shields.io/docker/automated/jugatsu/search_engine_ui.svg)](https://github.com/jugatsu/search_engine_ui)
+
 Веб-интерфейс поиска слов и фраз на проиндексированных [ботом](https://github.com/express42/search_engine_crawler) сайтах.
 
 Веб-интерфейс минимален, предоставляет пользователю строку для запроса и результаты. Поиск происходит только по индексированным сайтам. Результат содержит только те страницы, на которых были найдены все слова из запроса. Рядом с каждой записью результата отображается оценка полезности ссылки (чем больше, тем лучше).
