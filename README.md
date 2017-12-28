@@ -1,7 +1,7 @@
 # Search Engine UI
 
-[![Docker Build Status](https://img.shields.io/docker/build/jugatsu/search_engine_ui.svg)](https://github.com/jugatsu/search_engine_ui)
-[![Docker Automated build](https://img.shields.io/docker/automated/jugatsu/search_engine_ui.svg)](https://github.com/jugatsu/search_engine_ui)
+[![Docker Build Status](https://img.shields.io/docker/build/jugatsu/search_engine_ui.svg)](https://hub.docker.com/r/jugatsu/search_engine_ui/builds/)
+[![Docker Automated build](https://img.shields.io/docker/automated/jugatsu/search_engine_ui.svg)](https://hub.docker.com/r/jugatsu/search_engine_ui/builds/)
 
 Веб-интерфейс поиска слов и фраз на проиндексированных [ботом](https://github.com/express42/search_engine_crawler) сайтах.
 
